@@ -17,5 +17,6 @@ public class Vote {
 
     public Boolean getVote() {
         return vote;
+
     }
 }
